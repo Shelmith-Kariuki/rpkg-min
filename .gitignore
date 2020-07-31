@@ -5,6 +5,7 @@
 # History files
 .Rhistory
 .Rapp.history
+.travis.yml
 
 # Session Data files
 .RData
